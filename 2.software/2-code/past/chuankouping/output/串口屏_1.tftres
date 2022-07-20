@@ -1,0 +1,33 @@
+<Resource>
+    <pages>
+        <page name="主界面" id="0" />
+        <page name="5801" id="1" />
+        <page name="5801_1" id="2" />
+        <page name="5801_2" id="3" />
+        <page name="7017" id="4" />
+        <page name="4055" id="5" />
+        <page name="3402" id="6" />
+        <page name="设置" id="7" />
+        <page name="7017_2" id="8" />
+    </pages>
+    <images>
+        <image id="0" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\ID_0主界面.jpg" effect_width="1024" effect_height="768" />
+        <image id="1" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\ID_0主界面按下.jpg" effect_width="1024" effect_height="768" />
+        <image id="2" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\ID_1_5801.jpg" effect_width="1024" effect_height="768" />
+        <image id="3" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\ID_1_5801按下.jpg" effect_width="1024" effect_height="768" />
+        <image id="4" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\ID_2_7017.jpg" effect_width="1024" effect_height="768" />
+        <image id="5" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\ID_2_7017按下.jpg" effect_width="1024" effect_height="768" />
+        <image id="6" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\ID_3_4055.jpg" effect_width="1024" effect_height="768" />
+        <image id="7" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\ID_3_4055按下.jpg" effect_width="1024" effect_height="768" />
+        <image id="8" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\ID_4_3402按下.jpg" effect_width="1024" effect_height="768" />
+        <image id="9" url="C:\Users\BigF&apos;s DELL G7\AppData\Local\Temp\slider_5_53.png" effect_width="832" effect_height="80" />
+        <image id="10" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\滑块_游标素材.png" effect_width="60" effect_height="60" />
+        <image id="11" url="C:\Users\BigF&apos;s DELL G7\AppData\Local\Temp\slider_5_56.png" effect_width="832" effect_height="80" />
+        <image id="12" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\ID_4_3402.jpg" effect_width="1024" effect_height="768" />
+        <image id="13" url="C:\Users\BigF&apos;s DELL G7\AppData\Local\Temp\slider_6_61.png" effect_width="832" effect_height="80" />
+        <image id="14" url="C:\Users\BigF&apos;s DELL G7\AppData\Local\Temp\slider_6_62.png" effect_width="832" effect_height="80" />
+        <image id="15" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\设置.jpg" effect_width="1024" effect_height="768" />
+        <image id="16" url="h:\机器人\项目\农装项目\3-代码\chuankouping\Images\设置按下.jpg" effect_width="1024" effect_height="768" />
+    </images>
+    <waves />
+</Resource>

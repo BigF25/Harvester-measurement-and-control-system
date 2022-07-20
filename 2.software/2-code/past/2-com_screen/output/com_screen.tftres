@@ -1,0 +1,21 @@
+<Resource>
+    <pages>
+        <page name="主界面" id="0" />
+        <page name="5801-1数字量输入" id="1" />
+        <page name="5801-2数字量输入" id="2" />
+        <page name="7017模拟量输入" id="3" />
+        <page name="4055数字量输出" id="4" />
+        <page name="3402模拟量输出" id="5" />
+        <page name="设置" id="6" />
+    </pages>
+    <images>
+        <image id="0" url="f:\机器人\项目\农装项目\1-代码\2-com_screen\Images\主界面.jpg" effect_width="1024" effect_height="768" />
+        <image id="1" url="f:\机器人\项目\农装项目\1-代码\2-com_screen\Images\主界面按下.jpg" effect_width="1024" effect_height="768" />
+        <image id="2" url="C:\Users\BigF&apos;s DELL G7\AppData\Local\Temp\cursor_0_0.png" effect_width="24" effect_height="24" />
+        <image id="3" url="C:\Users\BigF&apos;s DELL G7\AppData\Local\Temp\slider_4_43.png" effect_width="469" effect_height="63" />
+        <image id="4" url="C:\Users\BigF&apos;s DELL G7\AppData\Local\Temp\slider_4_46.png" effect_width="479" effect_height="54" />
+        <image id="5" url="C:\Users\BigF&apos;s DELL G7\AppData\Local\Temp\slider_5_51.png" effect_width="422" effect_height="84" />
+        <image id="6" url="C:\Users\BigF&apos;s DELL G7\AppData\Local\Temp\slider_5_52.png" effect_width="483" effect_height="86" />
+    </images>
+    <waves />
+</Resource>
